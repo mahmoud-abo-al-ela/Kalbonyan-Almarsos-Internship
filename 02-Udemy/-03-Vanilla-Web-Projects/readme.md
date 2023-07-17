@@ -14,7 +14,7 @@
 | 06  |     [Menu Slider & Modal](./Projects/06-Modal-Menu-Slider/)     |  [Live Demo](https://mo-simple-page.netlify.app/)  |
 | 07  |             [Hangman Game](./Projects/07-Hangman/)              |  [Live Demo](https://the-mo-hangman.netlify.app/)  |
 | 08  |          [Mealfinder App](./Projects/08-Meal-Finder/)           |  [Live Demo](https://mo-meal-finder.netlify.app/)  |
-| 09  |        [Expense Tracker](./Projects/09-Expense-Tracker/)        | [Live Demo](https://mo-breakout-game.netlify.app/) |
+| 09  |        [Expense Tracker](./Projects/09-Expense-Tracker/)        | [Live Demo](https://mo-expense-tracker.netlify.app/) |
 | 10  |           [Audio Player](./Projects/10-Audio-Player/)           | [Live Demo](https://mo-music-player.netlify.app/)  |
 | 11  |     [Infinite Scrolling](./Projects/11-Infinite-Scrolling/)     |    [Live Demo](https://mo-my-blog.netlify.app/)    |
 | 12  |             [Typing Game](./Projects/12-Type-Race/)             |   [Live Demo](https://mo-type-game.netlify.app/)   |
