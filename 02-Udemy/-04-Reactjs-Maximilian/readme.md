@@ -27,12 +27,12 @@
 ### Section 8-9 Project
 
 - [Project-code](./Projects/03-section-8-9-project)
-- [Live Demo](https://64a950059090837382ade0d2--stellular-paprenjak-6e5723.netlify.app/)
+- [Live Demo](https://mo-user.netlify.app/)
 
 ### Login-app (S11)
 
 - [Project-code](./Projects/04-Login-app-s10/)
-- [Live Demo](https://64a95132af1815736a7c370d--frabjous-unicorn-cd7529.netlify.app/)
+- [Live Demo](https://mo-login.netlify.app/)
 
 ### Order-food App (S12)
 
@@ -42,7 +42,7 @@
 ### Section 13 Project
 
 - [Project-code](./Projects/07-S13-project)
-- [Live Demo](https://64a9720c6a675c07ddc4caf3--sparkly-torrone-d7a811.netlify.app/)
+- [Live Demo](https://mo-search-app.netlify.app//)
 
 ### movies app(S15)
 
@@ -52,7 +52,7 @@
 ### Form-app(S17)
 
 - [Project-code](./Projects/10-form-app)
-- [Live Demo](https://64a966b5ce8f657ec5a280fb--dashing-froyo-dc69f8.netlify.app/)
+- [Live Demo](https://mo-form-app.netlify.app/)
 
 ### Order-food App (S18)
 
