@@ -74,7 +74,7 @@
 `React + Node`
 
 - [Project-code](./Projects/13-events-app)
-- [Live Demo](https://events-l6bk.onrender.com/events/new)
+- [Live Demo](https://events-l6bk.onrender.com/)
 
 ### Meetups app(S23)
 
