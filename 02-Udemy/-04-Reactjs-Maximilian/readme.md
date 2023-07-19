@@ -49,6 +49,11 @@
 - [Project-code](./Projects/08-movies-app)
 - [Live Demo](https://mo-movies-app.netlify.app/)
 
+### Tasks app with firebase(S16)
+
+- [Project-code](./Projects/09-task-app-firbase/)
+- [Live Demo](https://tasks-app-eta.vercel.app/)
+
 ### Form-app(S17)
 
 - [Project-code](./Projects/10-form-app)
