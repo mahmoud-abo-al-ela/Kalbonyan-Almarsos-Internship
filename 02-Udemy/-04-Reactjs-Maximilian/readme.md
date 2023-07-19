@@ -81,7 +81,7 @@
 - [Project-code](./Projects/13-events-app)
 - [Live Demo](https://events-l6bk.onrender.com/)
 
-### Blog(S23)
+### Blog(S22)
 
 - [Project-code](./Projects/14-Blog)
 - [Live Demo](https://blog-rho-rose.vercel.app/)
